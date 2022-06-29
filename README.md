@@ -1,5 +1,7 @@
 # tree-table-transfer
 
+![](https://raw.githubusercontent.com/waiaan/tree-table-transfer/master/screenshot.png)
+
 ```html
 <div id="app" class="h-full">
 <TreeTableTransfer
